@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Verma</h1>
 <h3 align="center">A passionate frontend developer from India, who loves to create bountiful responsive web-application</h3>
+<img alt="coding image" src="https://camo.githubusercontent.com/e220312fa9d2fc06c614f678b1e628bd867d9f5780bcac14afc2dbe0494f9132/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966" align="right" width="400px"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaji123089&label=Profile%20views&color=0e75b6&style=flat" alt="vermaji123089" /> </p>
 
